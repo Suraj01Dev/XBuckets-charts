@@ -1,0 +1,5 @@
+xbuckets:
+  region: us-east-2
+  names:
+    - chennaipy-functions-example-h
+
