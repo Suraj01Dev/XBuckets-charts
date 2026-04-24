@@ -2,5 +2,4 @@ xbuckets:
   region: us-east-1
   names:
   - cncfhyd-function-bucket-10
-  - suraj-dev-cncf-hyd
-  - suraj-dev-cncf-hyd2
+
