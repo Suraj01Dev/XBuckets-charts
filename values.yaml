@@ -1,5 +1,6 @@
 xbuckets:
-  region: us-east-2
+  region: us-east-1
   names:
   - chennaipy-functions-example-h
   - chennaipy-bucket-5dcce335-ttt
+  - test-hyd-cncf
