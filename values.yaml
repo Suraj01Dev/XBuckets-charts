@@ -1,6 +1,3 @@
 xbuckets:
   region: us-east-1
-  names:
-  - check-test-123-hyd-cncf
-  - suraj-dev-cncf-hyd
-  - suraj-dev-cncf-hyd2
+  names: []
