@@ -1,3 +1,4 @@
 xbuckets:
   region: us-east-1
-  names: []
+  names: 
+  - cncfhyd-function-bucket-1
